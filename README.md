@@ -1,2 +1,2 @@
-# Courtyard.github.io
+# Hosting
 app-ads.txt hosting
